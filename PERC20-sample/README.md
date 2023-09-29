@@ -32,6 +32,6 @@ npm run deploy
 
 To deploy and transfer 1 token to a specified address, use check `scripts/deployMintAndTransfer.ts` script and use following command:
 ```sh
-npx hardhat run scripts/deployMintAndTransfer.js
+npx hardhat run scripts/deployMintAndTransfer.js --network swisstronik
 ```
 
